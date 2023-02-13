@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Github CodePipeline CI/CD !!!!
+          Github CodePipeline !!!!
         </a>
       </header>
     </div>
